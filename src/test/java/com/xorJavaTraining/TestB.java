@@ -14,5 +14,10 @@ public class TestB {
 	public void test2() {
 		Assert.assertEquals("TESTA", "TESTA");
 	}
+	
+	@Test
+	public void test3() {
+		Assert.assertEquals("TESTA", "TESTA");
+	}
 
 }
